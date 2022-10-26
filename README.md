@@ -2,7 +2,7 @@
         <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Img Principal" width="50%">
         <h1>Hola👋, Soy Pedro Arias</h1>
     <h3 color="red">
-                Apasionado programador panameño<img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/pa.png" width="30">. Me destaco en la programación Java con SpringBoot Framework para hacer microservicios y domino lenguajes de programación como Javascript, Html, Css, Php a nivel básico/intermedio. Busco formar parte de un equipo que me permita crecer profesionalmente, <i>la perseverancia y el esfuerzo</i> remarcan en mi personalidad.
+                Apasionado programador panameño<img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/pa.png" width="30">. Me destaco en la programación Java con SpringBoot Framework para hacer microservicios. Domino lenguajes de programación como Javascript, Html, Css, Php a nivel intermedio. Construyo sitios utilizando Node Js, Express Js, React Js(Básico). Visite mis repositorios para validar mis avances en la programación!. Busco formar parte de un equipo que me permita crecer profesionalmente, <i>la perseverancia y el esfuerzo</i> remarcan en mi personalidad.
             </h3>
     <a href="https://www.instagram.com/l.arias18/" target="_blank">
         <img alt="Instagran Pedro Profile" src="https://img.shields.io/twitter/url?color=%23be46d0&label=Follow%20%40l.arias18&logo=instagram&logoColor=%23be46d0&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fl.arias18%2F%3Fhl%3Des">
